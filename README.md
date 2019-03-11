@@ -16,3 +16,10 @@ Regras
 6. Uma vez entra o jogador X, outra o jogador 0, um por vez.
 7. Sequencias de acerto 3 iguais (Horizontal, Vertical e Transversal);
 8. Para vitórial, exibir um alert (Jogador (variavel) acertou na jogada (Tipo de sequencia));
+
+
+install 
+
+npm install 
+npm start
+
